@@ -1,8 +1,5 @@
-# h1 Geading
-## h2 HH
 
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
