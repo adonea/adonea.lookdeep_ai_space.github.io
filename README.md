@@ -48,10 +48,10 @@ The online workshop will have two parts:
       <th style="text-align: center;" id="table69225r1c4">
         Recorded session link
       </th>
-      <th style="text-align: center;" colspan="2" id="table69225r1c5">
+      <th style="text-align: center;" id="table69225r1c5">
         AI/ML Keywords
       </th>
-	<th style="text-align: center;" colspan="2" id="table69225r1c5">
+	<th style="text-align: center;" id="table69225r1c6">
         Publications,   
 	Repos
       </th>
@@ -74,7 +74,7 @@ The online workshop will have two parts:
       <td headers="table69225r1c5">
         Reconstructing the 3D geometry of the Sun is very challenging. Show the physical reality of the Sun, generate novel views of our star &nbsp;
       </td>
-       <td headers="table69225r1c5">
+       <td headers="table69225r1c6">
 	 <a href="https://github.com/tremblaybenoit">github</a>
       </td>
     </tr>
@@ -94,7 +94,7 @@ The online workshop will have two parts:
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
       </td>
-	    <td headers="table69225r1c5">
+	  <td headers="table69225r1c5">
 	 <a href="https://rdcu.be/c4VFt">Paper (Solar Physics, 2023)</a>
       </td>
     </tr>
@@ -113,6 +113,10 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
+      </td>
+	   </td>
+	  <td headers="table69225r1c5">
+	 “Predicting the Geoeffectiveness of CMEs Using Machine Learning,” Andreea-Clara Pricopi et al 2022 ApJ 934 176. doi:10.3847/1538-4357/ac7962 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac7962">Paper (Solar Physics, 2023)</a>
       </td>
     </tr>
     <tr>
