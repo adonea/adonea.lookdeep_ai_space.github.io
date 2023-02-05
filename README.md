@@ -369,7 +369,7 @@ The online workshop will have two parts:
 
 
 
-<details><summary>Session 3: 26th June 2023 Timetable</summary>
+<details><summary>Session 3: 26th June 2023 TBC (invitations open)</summary>
 <p>
 
 </.>
