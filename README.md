@@ -7,8 +7,9 @@
 
 ![This is an image](https://www.monash.edu/__data/assets/image/0005/3171506/webpage_banner.png)
 
-This is an image of the webpage hosted by Monash University:
+This is an github image of the workshop advertised on the webpage hosted by Monash University:
 	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
+	
 	
 	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University are pleased to present the 1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
 
@@ -61,7 +62,8 @@ Please, register your participation to receive all related communication and res
         SuNeRFs - The Sun as a (fully-resolved) Star
       </td>
       <td headers="table69225r1c4">
-        TBA
+        (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels)![image](https://user-images.githubusercontent.com/45900056/216805368-b2b83c3a-cd91-444c-be94-1cf9ef4e56fa.png)
+
       </td>
       <td headers="table69225r1c5">
         &nbsp;
@@ -78,7 +80,7 @@ Please, register your participation to receive all related communication and res
         A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps
       </td>
       <td headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805374-449bed53-1d9f-462f-bda9-d2c196184db7.png)
       </td>
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
@@ -95,7 +97,7 @@ Please, register your participation to receive all related communication and res
         Machine Learning for Predicting the Geoeffectiveness of CMEs - A gentle introduction
       </td>
       <td headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805377-d3423e35-33d2-42eb-b49a-b249d928e0d4.png)
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
@@ -112,7 +114,7 @@ Please, register your participation to receive all related communication and res
         Imaging of the Far Side of the Sun with CGANs: Challenges and Reality
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805381-1e29bef2-f027-43a8-b1b3-ea42929ce9ed.png)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
@@ -194,65 +196,11 @@ Please, register your participation to receive all related communication and res
 </p>
 </details>
 	
-<details><summary>Session 1: test 23rd Feb 2023 Timetable</summary>
-	
-<p>
 
-<table border="1" cellspacing="0" cellpadding="5">
-		<thead>
-			<tr>
-				<th></th>
-				<th>Kolom 1</th>
-				<th>Kolom 2</th>
-			</tr>
-		</thead>
-		<tbody>
-		<thead>
-			<tr>
-				<th>Baris 1</th>
-				<td>Baris 1, Kolom 1</td>
-				<td>Baris 1, Kolom 2</td>
-			</tr>
-			<tr>
-				<th>Baris 2</th>
-				<td>Baris 2, Kolom 1</td>
-				<td>Baris 2, Kolom 2</td>
-			</tr>
-		</thead>
-	</tbody>
-	</table>
-
-
-
-</p>
-</details>
 
 <details><summary>Session 1: 23rd Feb 2023 Timetable</summary>
 <p>
 
-<table border="1" cellspacing="0" cellpadding="5">
-		<thead>
-			<tr>
-				<th></th>
-				<th>Kolom 1</th>
-				<th>Kolom 2</th>
-			</tr>
-		</thead>
-		<tbody>
-		<thead>
-			<tr>
-				<th>Baris 1</th>
-				<td>Baris 1, Kolom 1</td>
-				<td>Baris 1, Kolom 2</td>
-			</tr>
-			<tr>
-				<th>Baris 2</th>
-				<td>Baris 2, Kolom 1</td>
-				<td>Baris 2, Kolom 2</td>
-			</tr>
-		</thead>
-	</tbody>
-	</table>
 
 <table id="table69225">
   <thead>
