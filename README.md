@@ -51,6 +51,10 @@ The online workshop will have two parts:
       <th style="text-align: center;" colspan="2" id="table69225r1c5">
         Keywords
       </th>
+	<th style="text-align: center;" colspan="2" id="table69225r1c5">
+        Publications & 
+	Repos
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -69,6 +73,9 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c5">
         &nbsp;
+      </td>
+ <td headers="table69225r1c5">
+	 <a href="https://github.com/tremblaybenoit">github</a>
       </td>
     </tr>
     <tr style="text-align: center;">
