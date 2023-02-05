@@ -142,8 +142,8 @@ The online workshop will have two parts:
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
       </td>
-	<td headers="table69225r1c5">
-		
+	<td headers="table69225r1c4">
+	 
       </td>
     </tr>
     <tr>
