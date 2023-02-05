@@ -1,0 +1,5 @@
+Title: A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps
+Speaker: Vanessa Mercea
+
+We will present a pedagogical approach to the application of machine learning representation methods for sunquake detection using AutoEncoders, Contrastive Learning, Object Detection and recurrent techniques, which we enhance by introducing several   custom domain-specific data augmentation transformations. We address the main challenges of the automated sunquake detection task, namely the very high noise patterns in and outside the active region shadow and the extreme class imbalance given by the
+limited number of frames that present sunquake signatures. With our trained models, we  nd temporal and spatial locations of peculiar acoustic emission and qualitatively associate them to eruptive and high energy emission.
