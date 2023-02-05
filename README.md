@@ -49,10 +49,10 @@ The online workshop will have two parts:
         Recorded session link
       </th>
       <th style="text-align: center;" colspan="2" id="table69225r1c5">
-        Keywords
+        AI/ML Keywords
       </th>
 	<th style="text-align: center;" colspan="2" id="table69225r1c5">
-        Publications & 
+        Publications,   
 	Repos
       </th>
     </tr>
@@ -72,9 +72,9 @@ The online workshop will have two parts:
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
-        &nbsp;
+        Reconstructing the 3D geometry of the Sun is very challenging. Show the physical reality of the Sun, generate novel views of our star &nbsp;
       </td>
- <td headers="table69225r1c5">
+       <td headers="table69225r1c5">
 	 <a href="https://github.com/tremblaybenoit">github</a>
       </td>
     </tr>
@@ -93,6 +93,9 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
+      </td>
+	    <td headers="table69225r1c5">
+	 <a href="https://rdcu.be/c4VFt">Paper (Solar Physics, 2023)</a>
       </td>
     </tr>
     <tr style="text-align: center;">
