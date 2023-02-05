@@ -24,7 +24,7 @@ The online workshop will have two parts:
 	<div>
   <ul>
     <li>6th Feb 2023   (morning sessions - 2:30 pm) </li>
-    <li>23rd Feb 2023  (talks, workshops, hands-on). Dr Enrido Camporel (https://ecamporeale.github.io) will talk on 23rd Feb 11 am AEDT</li>
+    <li>23rd Feb 2023  (talks, workshops, hands-on). Dr Enrico Camporeale (https://ecamporeale.github.io) will talk on 23rd Feb 11 am AEDT</li>
   </ul>
 </div>
 	
