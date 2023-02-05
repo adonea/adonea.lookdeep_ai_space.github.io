@@ -1,0 +1,11 @@
+Title:Imaging of the Far Side of the Sun with CGANs: Challenges and Reality
+Speakers: Alina Donea and OScar Rodriguez
+
+The solar physics branch called helioseismology has nowadays established a vital role in space weather predictions;
+it provides gigabytes of rich data on sunspots and magnetic active regions  observed on the near side and far side of the Sun. Lindsey and Braun(2000)  used the local helioseismology to generate backside acoustic  images as a proxy of
+unsigned magnetic fluxes. What is missing today is the information about the magnetic field of ARs on the far side and how this leads to understanding the evolution of active regions and their potential to  produce solar flares and coronal mass ejections. Unfortunately, occasional eruptions of radiation and matter can disrupt our power grids and communications systems, as well as impact satellite operations and GPS navigation capabilities. 
+
+We generated  solar magnetograms using only EUV images of the Sun from the near and farside of the Sun. We used cGANs to improve the AI-generated magnetograms  with a  +- 300 Gauss dynamic range using the  SDO/AIA images of 304 Å and SDO/HMI for the model input.
+The AI-generated magnetograms could reproduce the magnetic field distributions of not only the active regions, but also open field regions needed for an accurate model of the 3D solar magnetic field.
+
+A description of the ML cGAN algorithm in depth will accompany the presentation.
