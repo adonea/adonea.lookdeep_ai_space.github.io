@@ -14,21 +14,17 @@ This is an github image of the workshop advertised on the webpage hosted by Mona
 	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University are pleased to present the 1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
 
 The workshop aims to foster Solar physics and Space Weather research through the application of Machine Learning (ML) and deep learning techniques.
-
-With the availability of data and computational technologies in the modern space/solar research, machine learning (ML) has emerged as a preferred methodology for data analysis and prediction. ML is part of AI (artificial intelligence), it is based on the idea that computer systems can learn from data by identifying patterns and then carry out classifications or predictions to aid researchers in decision-making and better modelling. However, the application and success of ML techniques depend heavily on datasets, algorithms, and layered structures
-
 This workshop presents case studies of applications of deep learning algorithms  with a  solar/space physics in focus. All case studies will be accompanied by resources (recorded videos, presentation powerpoints, mathematical notes with video explanations for algorithms and codes for learning)  to help participants to learn ML algorithms and eventually, apply it to their own research.
 
 The format is as follows:
 
-The workshop will run online, all are drop in sessions, but it is also designed to be a self-paced workshop with Zoom sessions to meet for discussions and questions.
-The participants will have access to pre-recorded / recorded videos of presentations, and can submit a list of questions to the chair or directly to the presenter (if not online).
+The workshop will run online, all are drop in sessions, but it is also designed to be a self-paced workshop with Zoom sessions to meet for discussions and questions. We are recording everything. The participants will have access to pre-recorded / recorded videos of presentations (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels), and can submit a list of questions to the chair or directly to the chair or presenter (if not online).
 
 The online workshop will have two parts: 
 	<div>
   <ul>
     <li>6th Feb 2023   (morning sessions - 2:30 pm) </li>
-    <li>23rd Feb 2023  (talks, workshops, hands-on). On 23rd Feb we are going to run two 2-hour sessions on coding and ML algorithms, mainly focussing on those algorithms applied for space science projects, and data imaging analysis.</li>
+    <li>23rd Feb 2023  (talks, workshops, hands-on). Dr Enrido Camporel (https://ecamporeale.github.io) will talk on 23rd Feb 11 am AEDT</li>
   </ul>
 </div>
 	
