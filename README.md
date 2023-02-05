@@ -19,20 +19,177 @@ The format is as follows:
 
 The workshop will run online, all are drop in sessions, but it is also designed to be a self-paced workshop with Zoom sessions to meet for discussions and questions.
 The participants will have access to pre-recorded / recorded videos of presentations, and can submit a list of questions to the chair or directly to the presenter (if not online).
-Here is a simple flow chart:
 
-```mermaid
-graph TD;
-    A--> 6th Feb 2023 ;
-    A--> 23rd Feb 2023 ;
-    B--> 26th June 2023;
-    C--> 26th June 2023;
-```
 The online workshop will have two parts: 6th Feb 2023 (morning sessions) and 23rd Feb 2023 (hands-on).  On 23rd Feb we are going to run two 2-hour sessions on coding and ML algorithms, mainly focussing on those algorithms applied for space science projects, and data imaging analysis.
 Plenary talk on the 23rd by our special guest Dr. Enrico Camporeale, Research Scientist at CIRES, University of Colorado, Boulder.
 Please, register your participation to receive all related communication and resources (see link at the bottom).
 
 <details><summary>Session 1: 6th Feb 2023 Timetable</summary>
+	
+	<table id="table69225">
+  <thead>
+    <tr>
+      <th style="text-align: center;" id="table69225r1c1">
+        Time
+      </th>
+      <th style="text-align: center;" id="table69225r1c2">
+        Presenter
+      </th>
+      <th style="text-align: center;" id="table69225r1c3">
+        Title
+      </th>
+      <th style="text-align: center;" id="table69225r1c4">
+        Recorded session link
+      </th>
+      <th style="text-align: center;" colspan="2" id="table69225r1c5">
+        Keywords
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        10:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Dr. Benoit Tremblay<br><em>Postdoctoral Research Fellow at the High Altitude Observatory</em>
+      </td>
+      <td headers="table69225r1c3">
+        SuNeRFs - The Sun as a (fully-resolved) Star
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        &nbsp;
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        10:30 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Vanessa Mercea<br><em>Technical University of Cluj-Napoca</em>
+      </td>
+      <td headers="table69225r1c3">
+        A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        self-supervised, supervised contrastive learning
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        11:00 a.m.
+      </td>
+      <td headers="table69225r1c2">
+        Andrea Clara Pricopi<br><em>Machine Learning Software Engineer<br>Mission Automate, Dublin</em>
+      </td>
+      <td headers="table69225r1c3">
+        Machine Learning for Predicting the Geoeffectiveness of CMEs - A gentle introduction
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        KNN, SVM, ensemble models, logistic regression
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        11:30 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Alina Donea and Oscar Rodriguez<br><em>Machine Learning and Data Applications Group in Solar Physics, School of Mathematics, Monash Univ.</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Imaging of the Far Side of the Sun with CGANs: Challenges and Reality
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        CNN, GAN, CGAN
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        12:00 p.m
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Mathilde Ritman<br><em>Data Science and Emerging Technologies<br>Bureau of Meteorology</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Detecting Multi-layer Cloud Systems in Himawari-8/9 Using Deep Learning
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        &nbsp;
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        12:30 p.m.
+      </td>
+      <td headers="table69225r1c2">
+        Emanuel Istratoaie<br><em>Faculty of IT and Commerce<br>Monash University</em>
+      </td>
+      <td headers="table69225r1c3">
+        AI for DST Index Forecasting
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        RNN, LSTM
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        1:00 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Ana Maria Minda<br>Software Engineer<br><em>Instaclustr</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Classification Algorithm for Prostate Cancer Lesions Using Tridimensional MRI Scans
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        densely-connected convolutional neural networks
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        2 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Andrew Cook<br><em>Monash University</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        A Gentle Introduction to Gradient Descent<br>(pre-recored)
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        gradient descent, optimization
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  *<strong>All times in AEDT</strong>
+</p>
+	
+	
 <p>
 
 <table border="1" cellspacing="0" cellpadding="5">
