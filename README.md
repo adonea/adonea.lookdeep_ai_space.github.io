@@ -122,7 +122,7 @@ The online workshop will have two parts:
       </td>
 	   </td>
 	  <td headers="table69225r1c5">
-	 “Predicting the Geoeffectiveness of CMEs Using Machine Learning,” Andreea-Clara Pricopi et al 2022 ApJ 934 176. doi:10.3847/1538-4357/ac7962 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac7962">Paper (Solar Physics, 2023)</a>
+	 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac7962">Paper (Solar Physics, 2023)</a>
       </td>
     </tr>
     <tr>
@@ -143,7 +143,6 @@ The online workshop will have two parts:
         CNN, GAN, CGAN
       </td>
 	<td headers="table69225r1c5">
-	<a href="https://www.youtube.com/watch?v=GqhLVykdX10">Youtube</a> 
 		
       </td>
     </tr>
