@@ -9,8 +9,8 @@
 
 This is an github image of the workshop advertised on the webpage hosted by Monash University:
 	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
-<b>This text is bold.</b>
-	Meeting ID:	<em>827 8195 6026</em>  Passcode:	<em>795960</em>
+<b>
+	Meeting ID:	827 8195 6026  Passcode:	795960 </b>
 	
 	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University are pleased to present the 1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
 
