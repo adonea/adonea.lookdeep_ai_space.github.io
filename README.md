@@ -143,7 +143,7 @@ The online workshop will have two parts:
         CNN, GAN, CGAN
       </td>
 	<td style="text-align: center;"  headers="table69225r1c6">
-	 &nbsp;
+	 https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/Solar_Alina-ML.pdf
       </td>
     </tr>
     <tr>
