@@ -5,7 +5,8 @@
 </head>
 <body>
 
-![This is an image](https://www.monash.edu/__data/assets/image/0005/3171506/webpage_banner.png)
+
+https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner.png
 
 This is an github image of the workshop advertised on the webpage hosted by Monash University:
 	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
