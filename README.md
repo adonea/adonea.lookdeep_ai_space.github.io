@@ -25,9 +25,14 @@ The workshop will run online, all are drop in sessions, but it is also designed 
 The participants will have access to pre-recorded / recorded videos of presentations, and can submit a list of questions to the chair or directly to the presenter (if not online).
 
 The online workshop will have two parts: 
-<h3>&#x2022; 6th Feb 2023  </h3>  (morning sessions - 2:30 pm) and 23rd Feb 2023 (hands-on).  On 23rd Feb we are going to run two 2-hour sessions on coding and ML algorithms, mainly focussing on those algorithms applied for space science projects, and data imaging analysis.
-Plenary talk on the 23rd by our special guest Dr. Enrico Camporeale, Research Scientist at CIRES, University of Colorado, Boulder.
-Please, register your participation to receive all related communication and resources (see link at the bottom).
+	<div>
+  <ul>
+    <li>6th Feb 2023   (morning sessions - 2:30 pm) </li>
+    <li>23rd Feb 2023  (talks, workshops, hands-on). On 23rd Feb we are going to run two 2-hour sessions on coding and ML algorithms, mainly focussing on those algorithms applied for space science projects, and data imaging analysis.</li>
+  </ul>
+</div>
+	
+
 
 <details><summary>Session 1: 6th Feb 2023 Timetable</summary>
 <p>
