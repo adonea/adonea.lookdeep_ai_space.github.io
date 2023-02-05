@@ -143,7 +143,8 @@ The online workshop will have two parts:
         CNN, GAN, CGAN
       </td>
 	<td headers="table69225r1c5">
-	<a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	<a href="https://www.youtube.com/watch?v=GqhLVykdX10">Youtube</a> 
+		
       </td>
     </tr>
     <tr>
