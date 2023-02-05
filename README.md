@@ -6,7 +6,7 @@
 <body>
 
 
-![image](https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner.png)
+![image](https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner1.png)
 
 This is an github mirror image of the workshop advertised on the webpage hosted by Monash University.
 	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
