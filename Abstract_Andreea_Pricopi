@@ -1,0 +1,4 @@
+Title: Machine Learning techniques for predicting the geoeffectiveness of CMEs - a gentle introduction
+Speaker: Andreea Pricopi
+
+Machine Learning techniques are a powerful tool for addressing various types of issues. Oftentimes, however, they can appear inaccessible to non-experts, due to technical jargon. This material aims to present Machine Learning techniques in an approachable, straightforward manner, while demonstrating how such techniques have been applied to predict the geoeffectiveness of Coronal Mass Ejections. The presentation focuses on logistic regression, K-Nearest Neighbors and ensemble models, which led to the best performance in the experiments. The algorithm explanations will be accompanied by insights regarding the challenges encountered, given the nature of the data, like class imbalance, as well as the approaches that were employed to tackle them.
