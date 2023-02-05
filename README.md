@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging</title>
+</head>
+<body>
 
 ![This is an image](https://www.monash.edu/__data/assets/image/0005/3171506/webpage_banner.png)
 
@@ -30,11 +35,28 @@ Please, register your participation to receive all related communication and res
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+<table border="1" cellspacing="0" cellpadding="5">
+	<!-- 
+	border="" untuk ketebalan garis table
+	cellspacing untuk mengatur jarak antar cell
+	cellpadding untuk mengatur  ruang dalam cel -->
+	<tr>
+		<td>baris 1, kolom 1</td>
+		<td>baris 1, kolom 2</td>
+	</tr>
+	<tr>
+		<td>baris 2, kolom 1</td>
+		<td>baris 2, kolom 2</td>
+	</tr>
+	<!-- <table></table> digunakan untuk membuat table -->
+	<!-- <tr></tr> table row digunakan untuk membuat baris tabel -->
+	<!-- <td></td> table data digunakan untuk membuat data di table -->
+</table>
 
-```ruby
-   puts "Hello World"
-```
+
 
 </p>
 </details>
+
+
+</html>
