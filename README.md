@@ -199,7 +199,7 @@ The online workshop will have two parts:
 	
 
 
-<details><summary>Session 1: 23rd Feb 2023 Timetable</summary>
+<details><summary>Session 2: 23rd Feb 2023 Timetable</summary>
 <p>
 
 
@@ -337,7 +337,7 @@ The online workshop will have two parts:
 
 
 
-<details><summary>Session 1: 26th June 2023 Timetable</summary>
+<details><summary>Session 3: 26th June 2023 Timetable</summary>
 <p>
 
 </.>
