@@ -81,7 +81,7 @@ The online workshop will have two parts:
         A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps
       </td>
       <td headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
@@ -98,7 +98,7 @@ The online workshop will have two parts:
         Machine Learning for Predicting the Geoeffectiveness of CMEs - A gentle introduction
       </td>
       <td headers="table69225r1c4">
-	 https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+	 <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
@@ -115,7 +115,7 @@ The online workshop will have two parts:
         Imaging of the Far Side of the Sun with CGANs: Challenges and Reality
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
@@ -132,7 +132,7 @@ The online workshop will have two parts:
         Detecting Multi-layer Cloud Systems in Himawari-8/9 Using Deep Learning
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         &nbsp;
@@ -149,7 +149,7 @@ The online workshop will have two parts:
         AI for DST Index Forecasting
       </td>
       <td headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         RNN, LSTM
@@ -166,7 +166,7 @@ The online workshop will have two parts:
         Classification Algorithm for Prostate Cancer Lesions Using Tridimensional MRI Scans
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         densely-connected convolutional neural networks
@@ -183,7 +183,7 @@ The online workshop will have two parts:
         A Gentle Introduction to Gradient Descent<br>(pre-recored)
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         gradient descent, optimization
@@ -235,7 +235,7 @@ The online workshop will have two parts:
         Inferring Properties of the Solar Atmosphere From the Spectropolarimetric Observations Using Neural Networks
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         neural networks
@@ -269,7 +269,7 @@ The online workshop will have two parts:
         Space Weather and ML Trends
       </td>
       <td headers="table69225r1c4">
-        TBA
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
         space weather
@@ -286,7 +286,7 @@ The online workshop will have two parts:
         Space Satelites
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        &nbsp;
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         satelite, solar flare
