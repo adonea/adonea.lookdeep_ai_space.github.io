@@ -25,8 +25,8 @@ Plenary talk on the 23rd by our special guest Dr. Enrico Camporeale, Research Sc
 Please, register your participation to receive all related communication and resources (see link at the bottom).
 
 <details><summary>Session 1: 6th Feb 2023 Timetable</summary>
-	
-	<table id="table69225">
+<p>
+<table id="table69225">
   <thead>
     <tr>
       <th style="text-align: center;" id="table69225r1c1">
@@ -185,6 +185,7 @@ Please, register your participation to receive all related communication and res
     </tr>
   </tbody>
 </table>
+</p>
 <p>
   *<strong>All times in AEDT</strong>
 </p>
