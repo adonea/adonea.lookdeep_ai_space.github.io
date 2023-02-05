@@ -62,8 +62,7 @@ Please, register your participation to receive all related communication and res
         SuNeRFs - The Sun as a (fully-resolved) Star
       </td>
       <td headers="table69225r1c4">
-        (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels)![image](https://user-images.githubusercontent.com/45900056/216805368-b2b83c3a-cd91-444c-be94-1cf9ef4e56fa.png)
-
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td headers="table69225r1c5">
         &nbsp;
@@ -80,7 +79,7 @@ Please, register your participation to receive all related communication and res
         A Machine Learning Enhanced Approach for Automated Sunquake Detection in Acoustic Emission Maps
       </td>
       <td headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805374-449bed53-1d9f-462f-bda9-d2c196184db7.png)
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
@@ -97,7 +96,7 @@ Please, register your participation to receive all related communication and res
         Machine Learning for Predicting the Geoeffectiveness of CMEs - A gentle introduction
       </td>
       <td headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805377-d3423e35-33d2-42eb-b49a-b249d928e0d4.png)
+	 https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
@@ -114,7 +113,7 @@ Please, register your participation to receive all related communication and res
         Imaging of the Far Side of the Sun with CGANs: Challenges and Reality
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels![image](https://user-images.githubusercontent.com/45900056/216805381-1e29bef2-f027-43a8-b1b3-ea42929ce9ed.png)
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
@@ -131,7 +130,7 @@ Please, register your participation to receive all related communication and res
         Detecting Multi-layer Cloud Systems in Himawari-8/9 Using Deep Learning
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         &nbsp;
@@ -148,7 +147,7 @@ Please, register your participation to receive all related communication and res
         AI for DST Index Forecasting
       </td>
       <td headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         RNN, LSTM
@@ -165,7 +164,7 @@ Please, register your participation to receive all related communication and res
         Classification Algorithm for Prostate Cancer Lesions Using Tridimensional MRI Scans
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         densely-connected convolutional neural networks
@@ -182,7 +181,7 @@ Please, register your participation to receive all related communication and res
         A Gentle Introduction to Gradient Descent<br>(pre-recored)
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         gradient descent, optimization
@@ -234,7 +233,7 @@ Please, register your participation to receive all related communication and res
         Inferring Properties of the Solar Atmosphere From the Spectropolarimetric Observations Using Neural Networks
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        TBA
+        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         neural networks
