@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging</title>
+	1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging
 </head>
 <body>
 
