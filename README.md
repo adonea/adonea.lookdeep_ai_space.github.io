@@ -72,6 +72,7 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c4">
        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (presenter will be online)
       </td>
       <td headers="table69225r1c5">
         Reconstructing the 3D geometry of the Sun is very challenging. Show the physical reality of the Sun, generate novel views of our star &nbsp;
@@ -92,6 +93,7 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (presenter will be online)
       </td>
       <td headers="table69225r1c5">
         self-supervised, supervised contrastive learning
@@ -112,6 +114,7 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c4">
 	 <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (presenter will be online at the end of the prerecorded video)
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
@@ -134,6 +137,7 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (presenter will be online)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
@@ -154,6 +158,7 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (presenter will be online)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         &nbsp;
@@ -174,6 +179,7 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (prerecorded, but presenter will be online)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         RNN, LSTM
@@ -194,6 +200,7 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (prerecorded, presenter will be online at the end of the video)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         densely-connected convolutional neural networks
@@ -214,6 +221,7 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+	      (prerecorded)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         gradient descent, optimization
