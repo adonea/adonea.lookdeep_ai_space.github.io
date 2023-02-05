@@ -8,8 +8,8 @@
 
 ![image](https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner.png)
 
-This is an github image of the workshop advertised on the webpage hosted by Monash University:
-	<img src="https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr/banner.jpg">
+This is an github mirror image of the workshop advertised on the webpage hosted by Monash University.
+	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
 	
 	
 <b>Meeting ID:	827 8195 6026  Passcode:	795960 </b>
