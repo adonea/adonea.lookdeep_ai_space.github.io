@@ -188,7 +188,9 @@ Please, register your participation to receive all related communication and res
 <p>
   *<strong>All times in AEDT</strong>
 </p>
-	
+
+<details><summary>Session 1: test 23rd Feb 2023 Timetable</summary>
+<p>
 	
 <p>
 
