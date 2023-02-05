@@ -334,5 +334,14 @@ The online workshop will have two parts:
 
 </p>
 </details>
+
+
+
+<details><summary>Session 1: 26th June 2023 Timetable</summary>
+<p>
+
+</.>
+</details>
+
 </html>
 
