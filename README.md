@@ -10,7 +10,7 @@
 This is an github image of the workshop advertised on the webpage hosted by Monash University:
 	https://www.monash.edu/science/schools/school-of-mathematics/events/dl4sr
 
-	Meeting ID:	827 8195 6026.   Passcode:	795960
+	<b>Meeting ID:	827 8195 6026. </b>  Passcode:	795960
 	
 	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University are pleased to present the 1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
 
@@ -113,6 +113,7 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c5">
         KNN, SVM, ensemble models, logistic regression
+	      Pricopi and coauthors trained their models on 80% of the data set, 20% for testing the models’ performance. In order to push the models to prioritize finding geomagnetic storms, the team tested several strategies, including penalizing models that misclassified these events and creating synthetic storms based on real data to bulk up the sample size.
       </td>
 	   </td>
 	  <td headers="table69225r1c5">
@@ -135,6 +136,9 @@ The online workshop will have two parts:
       <td style="text-align: center;" headers="table69225r1c5">
         CNN, GAN, CGAN
       </td>
+	<td headers="table69225r1c5">
+	 &nbsp;
+      </td>
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
@@ -151,6 +155,9 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         &nbsp;
+      </td>
+	    <td headers="table69225r1c6">
+	 &nbsp;
       </td>
     </tr>
     <tr style="text-align: center;">
@@ -169,6 +176,9 @@ The online workshop will have two parts:
       <td style="text-align: center;" headers="table69225r1c5">
         RNN, LSTM
       </td>
+	    <td headers="table69225r1c5">
+	 The disturbance storm time (Dst) index is an important and useful measurement in space weather research, which is used to understand the severity of a geomagnetic storm. The Dst index is also known as the measure of the decrease in the Earth’s magnetic field.
+      </td>
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
@@ -186,6 +196,9 @@ The online workshop will have two parts:
       <td style="text-align: center;" headers="table69225r1c5">
         densely-connected convolutional neural networks
       </td>
+	    <td headers="table69225r1c5">
+	 &nbsp;
+      </td>
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
@@ -202,6 +215,9 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
         gradient descent, optimization
+      </td>
+	    <td headers="table69225r1c5">
+	 &nbsp;
       </td>
     </tr>
   </tbody>
