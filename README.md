@@ -32,31 +32,67 @@ The online workshop will have two parts: 6th Feb 2023 (morning sessions) and 23r
 Plenary talk on the 23rd by our special guest Dr. Enrico Camporeale, Research Scientist at CIRES, University of Colorado, Boulder.
 Please, register your participation to receive all related communication and resources (see link at the bottom).
 
-<details><summary>CLICK ME</summary>
+<details><summary>Session 1: 6th Feb 2023 Timetable</summary>
 <p>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<!-- 
-	border="" untuk ketebalan garis table
-	cellspacing untuk mengatur jarak antar cell
-	cellpadding untuk mengatur  ruang dalam cel -->
-	<tr>
-		<td>baris 1, kolom 1</td>
-		<td>baris 1, kolom 2</td>
-	</tr>
-	<tr>
-		<td>baris 2, kolom 1</td>
-		<td>baris 2, kolom 2</td>
-	</tr>
-	<!-- <table></table> digunakan untuk membuat table -->
-	<!-- <tr></tr> table row digunakan untuk membuat baris tabel -->
-	<!-- <td></td> table data digunakan untuk membuat data di table -->
-</table>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Kolom 1</th>
+				<th>Kolom 2</th>
+			</tr>
+		</thead>
+		<tbody>
+		<thead>
+			<tr>
+				<th>Baris 1</th>
+				<td>Baris 1, Kolom 1</td>
+				<td>Baris 1, Kolom 2</td>
+			</tr>
+			<tr>
+				<th>Baris 2</th>
+				<td>Baris 2, Kolom 1</td>
+				<td>Baris 2, Kolom 2</td>
+			</tr>
+		</thead>
+	</tbody>
+	</table>
 
 
 
 </p>
 </details>
 
+<details><summary>Session 1: 23rd Feb 2023 Timetable</summary>
+<p>
 
+<table border="1" cellspacing="0" cellpadding="5">
+		<thead>
+			<tr>
+				<th></th>
+				<th>Kolom 1</th>
+				<th>Kolom 2</th>
+			</tr>
+		</thead>
+		<tbody>
+		<thead>
+			<tr>
+				<th>Baris 1</th>
+				<td>Baris 1, Kolom 1</td>
+				<td>Baris 1, Kolom 2</td>
+			</tr>
+			<tr>
+				<th>Baris 2</th>
+				<td>Baris 2, Kolom 1</td>
+				<td>Baris 2, Kolom 2</td>
+			</tr>
+		</thead>
+	</tbody>
+	</table>
+
+
+
+</p>
+</details>
 </html>
