@@ -189,9 +189,9 @@ Please, register your participation to receive all related communication and res
 <p>
   *<strong>All times in AEDT</strong>
 </p>
-
+</details>
+	
 <details><summary>Session 1: test 23rd Feb 2023 Timetable</summary>
-<p>
 	
 <p>
 
@@ -251,7 +251,134 @@ Please, register your participation to receive all related communication and res
 	</tbody>
 	</table>
 
-
+<table id="table69225">
+  <thead>
+    <tr>
+      <th style="text-align: center;" id="table69225r1c1">
+        Time
+      </th>
+      <th style="text-align: center;" id="table69225r1c2">
+        Presenter
+      </th>
+      <th style="text-align: center;" id="table69225r1c3">
+        Title
+      </th>
+      <th style="text-align: center;" id="table69225r1c4">
+        Recorded session link
+      </th>
+      <th style="text-align: center;" id="table69225r1c5">
+        Keywords
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Ivan Milic<br><em>Leibniz Institute for Solar Physics - KIS</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Inferring Properties of the Solar Atmosphere From the Spectropolarimetric Observations Using Neural Networks
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        TBA
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        neural networks
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        9:30-10:45 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Workshop 1
+      </td>
+      <td headers="table69225r1c3">
+        Workshop 1
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        &nbsp;
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        11:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Dr. Enrico Camporealle<br><em>NSO</em>
+      </td>
+      <td headers="table69225r1c3">
+        Space Weather and ML Trends
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        space weather
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        12:00 p.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+        Nina Averil<br><em>Saber Astronautics</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Space Satelites
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        &nbsp;
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+        satelite, solar flare
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        1-3 p.m. 
+      </td>
+      <td headers="table69225r1c2">
+        Workshop 2
+      </td>
+      <td headers="table69225r1c3">
+        Workshop 2
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        &nbsp;
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        4-6 p.m. 
+      </td>
+      <td headers="table69225r1c2">
+        Workshop 3
+      </td>
+      <td headers="table69225r1c3">
+        Workshop 3
+      </td>
+      <td headers="table69225r1c4">
+        TBA
+      </td>
+      <td headers="table69225r1c5">
+        &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  *<strong>All times in AEDT</strong>
+</p>
 
 </p>
 </details>
