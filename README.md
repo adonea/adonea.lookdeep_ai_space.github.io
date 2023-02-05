@@ -267,7 +267,7 @@ The online workshop will have two parts:
         11:00 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        Dr. Enrico Camporealle<br><em>NSO</em>
+        <span style="background-color: #FFFF00"> Dr. Enrico Camporealle </span><br><em>NSO</em>
       </td>
       <td headers="table69225r1c3">
         Space Weather and ML Trends
