@@ -64,7 +64,7 @@ The online workshop will have two parts:
         SuNeRFs - The Sun as a (fully-resolved) Star
       </td>
       <td headers="table69225r1c4">
-        https://www.youtube.com/@DeepLearningSpaceMonashUni/channels
+       <a href="[https://example.com](https://www.youtube.com/@DeepLearningSpaceMonashUni/channels)">Youtube</a></li>  
       </td>
       <td headers="table69225r1c5">
         &nbsp;
