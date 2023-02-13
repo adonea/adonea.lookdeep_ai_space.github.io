@@ -302,14 +302,13 @@ The online workshop will have two parts:
     </tr>
     <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        11:00 a.m.
+        11:00 a.m. (Melbourne time)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
         <span style="background-color: #FFFF00"> Dr. Enrico Camporealle </span><br><em>NSO</em>
       </td>
       <td headers="table69225r1c3">
         Space Weather and ML Trends 
-	
       </td>
       <td headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
