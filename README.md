@@ -2,6 +2,7 @@
 <html>
 <head>
 	1st Workshop on Deep Learning Algorithms for Space Research and Data Imaging
+	Part II on 23rd Feb!
 </head>
 <body>
 
@@ -308,6 +309,9 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c3">
         Space Weather and ML Trends
+	<small>In the last few years machine learning techniques have proven capable of forecasting space weather events with a much higher accuracy with respect to long-used traditional empirical and physics-based models. Even though very few operational models are currently empowered by machine learning, it appears to be unavoidable that the community will embrace in the near future such powerful techniques. Indeed, it is hard to imagine the future of space weather without machine learning. Presently, we are moving one step further from the initial 'early-adopter' stage, where proof-of-principles models were elaborated and tested, and more consideration is being given to the issues of reliability, uncertainty, and trustworthiness of machine learning models, finding the right balance between physics priors and data-driven discovery.
+	
+In this talk I will present the state-of-the-art of machine learning applications for space weather problems and will discuss a few challenges and opportunities that this field presents to us.</small>
       </td>
       <td headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
