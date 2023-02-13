@@ -308,9 +308,7 @@ The online workshop will have two parts:
         <span style="background-color: #FFFF00"> Dr. Enrico Camporealle </span><br><em>NSO</em>
       </td>
       <td headers="table69225r1c3">
-        Space Weather and ML Trends <p style="color:blue;font-size:9px;">In the last few years machine learning techniques have proven capable of forecasting space weather events with a much higher accuracy with respect to long-used traditional empirical and physics-based models. Even though very few operational models are currently empowered by machine learning, it appears to be unavoidable that the community will embrace in the near future such powerful techniques. Indeed, it is hard to imagine the future of space weather without machine learning. Presently, we are moving one step further from the initial 'early-adopter' stage, where proof-of-principles models were elaborated and tested, and more consideration is being given to the issues of reliability, uncertainty, and trustworthiness of machine learning models, finding the right balance between physics priors and data-driven discovery.
-	
-In this talk I will present the state-of-the-art of machine learning applications for space weather problems and will discuss a few challenges and opportunities that this field presents to us.</p>
+        Space Weather and ML Trends 
 	
       </td>
       <td headers="table69225r1c4">
