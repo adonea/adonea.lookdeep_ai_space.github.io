@@ -297,7 +297,7 @@ The online workshop will have two parts:
         TBA
       </td>
       <td headers="table69225r1c5">
-        &nbsp;
+        <a href="https://github.com/ivanzmilic/monash_workshop"> github link </a>  
       </td>
     </tr>
     <tr style="text-align: center;">
