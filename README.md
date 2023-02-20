@@ -319,13 +319,13 @@ The online workshop will have two parts:
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        12:00 p.m. (speaker has cancelled, we will have proper lunches not sandwishes in front of the monitors)
+        12:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        (speaker has cancelled, we will have proper lunches not sandwishes in front of the monitors)
+         we will have proper lunches not sandwishes in front of the monitors
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        zoom chats online from 12:40-1 pm
+        zoom chats online from 12:40-1 pm, cameras on
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         &nbsp;
@@ -348,7 +348,8 @@ The online workshop will have two parts:
         TBA
       </td>
       <td headers="table69225r1c5">
-        <a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
+        talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
+	      <a href="https://github.com/pereaanamaria/PCa_tutorial"github link</a>
       </td>
     </tr>
     <tr style="text-align: center;">
