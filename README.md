@@ -314,12 +314,12 @@ The online workshop will have two parts:
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
-        
+        abstract
       </td>
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        12:00 p.m. (speaker cancelled, we will have proper lunches not sandwishes in front of the monitors)
+        12:00 p.m. (speaker has cancelled, we will have proper lunches not sandwishes in front of the monitors)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
         lunch 
