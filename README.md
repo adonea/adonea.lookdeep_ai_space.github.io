@@ -288,7 +288,7 @@ The online workshop will have two parts:
         9:30-10:45 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        Workshop 1
+        Workshop 1 by Ivan Milic
       </td>
       <td headers="table69225r1c3">
         notebooks and slides for DNN inversion lecture at monash ML workshop
@@ -322,16 +322,16 @@ The online workshop will have two parts:
         12:00 p.m. (speaker has cancelled, we will have proper lunches not sandwishes in front of the monitors)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        lunch 
+        (speaker has cancelled, we will have proper lunches not sandwishes in front of the monitors)
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        
+        zoom chats online from 12:40-1 pm
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        
+        &nbsp;
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-        
+        &nbsp;
       </td>
     </tr>
     <tr style="text-align: center;">
@@ -339,16 +339,16 @@ The online workshop will have two parts:
         1-3 p.m. 
       </td>
       <td headers="table69225r1c2">
-        Workshop 2
+        Workshop 2 by Ana Maria Perea 
       </td>
       <td headers="table69225r1c3">
-        Workshop 2
+        PCa_tutorial
       </td>
       <td headers="table69225r1c4">
         TBA
       </td>
       <td headers="table69225r1c5">
-        &nbsp;
+        <a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
       </td>
     </tr>
     <tr style="text-align: center;">
@@ -356,7 +356,7 @@ The online workshop will have two parts:
         4-6 p.m. 
       </td>
       <td headers="table69225r1c2">
-        Workshop 3
+        Workshop 3 by Vanesssa Mercea
       </td>
       <td headers="table69225r1c3">
         Workshop 3
