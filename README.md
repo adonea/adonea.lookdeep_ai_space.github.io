@@ -280,7 +280,7 @@ The online workshop will have two parts:
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-        neural networks
+       
       </td>
     </tr>
     <tr style="text-align: center;">
@@ -291,7 +291,7 @@ The online workshop will have two parts:
         Workshop 1
       </td>
       <td headers="table69225r1c3">
-        Workshop 1
+        notebooks and slides for DNN inversion lecture at monash ML workshop
       </td>
       <td headers="table69225r1c4">
         TBA
@@ -305,7 +305,7 @@ The online workshop will have two parts:
         11:00 a.m. (Melbourne time)
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        <span style="background-color: #FFFF00"> Dr. Enrico Camporealle </span><br><em>NSO</em>
+        <span style="background-color: #FFFF00"> special guest: Dr. Enrico Camporealle </span><br><em>NSO</em>
       </td>
       <td headers="table69225r1c3">
         Space Weather and ML Trends 
@@ -314,18 +314,19 @@ The online workshop will have two parts:
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
       </td>
       <td headers="table69225r1c5">
-        space weather
+        In the last few years machine learning techniques have proven capable of forecasting space weather events with a much higher accuracy with respect to long-used traditional empirical and physics-based models. Even though very few operational models are currently empowered by machine learning, it appears to be unavoidable that the community will embrace in the near future such powerful techniques. Indeed, it is hard to imagine the future of space weather without machine learning. Presently, we are moving one step further from the initial 'early-adopter' stage, where proof-of-principles models were elaborated and tested, and more consideration is being given to the issues of reliability, uncertainty, and trustworthiness of machine learning models, finding the right balance between physics priors and data-driven discovery.
+In this talk I will present the state-of-the-art of machine learning applications for space weather problems and will discuss a few challenges and opportunities that this field presents to us.
       </td>
     </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        12:00 p.m.
+        12:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        Nina Averil<br><em>Saber Astronautics</em>
+        lunch <br><em>(cancelled)Saber Astronautics</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Space Satelites
+        
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
