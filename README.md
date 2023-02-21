@@ -349,7 +349,7 @@ The online workshop will have two parts:
         TBA
       </td>
       <td headers="table69225r1c5">
-       
+       &nbsp;
       </td>
     </tr>
     <tr style="text-align: center;">
@@ -365,14 +365,9 @@ The online workshop will have two parts:
       <td headers="table69225r1c4">
         Setup/Installs/Downloads (ongoing)
 Time predictions/analysis:
-Aplicare de model Supervised Contrastive Learning de la checkpoint-ul meu după antrenare (pus, trebuie organizat si puse explicatii la algoritmul din spate dat fiind ca fac doar aplicare)
-Exemplificare importanta si mod de aplicare transformate custom (random erase, time based mixing, low pass) (todo)
-Aplicare UMAP pentru analiza feature vectors (todo)
-Aplicare SVC pentru clasificare (pus, trebuie organizat)
-Aplicare SMOTE la clasificare ca sa înțeleagă scopul/utilitatea under/oversampling-ului în învățare (pus, trebuie organizat)
 Location prediction
-Aplicare OD tot după checkpoint-ul modelului meu antrenat (todo)
-Analiza vizuala (todo)
+Aplication OD 
+Visuals
       </td>
       <td headers="table69225r1c5">
         &nbsp;
