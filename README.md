@@ -322,34 +322,34 @@ The online workshop will have two parts:
         12:00 p.m. 
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-         we will have proper lunches not sandwishes in front of the monitors
+         Workshop 2 by Ana Maria Perea 
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        zoom chats online from 12:40-1 pm, cameras on
+        PCa_tutorial
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         &nbsp;
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-        &nbsp;
+         talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
+	      <a href="https://github.com/pereaanamaria/PCa_tutorial"github link</a> &nbsp;
       </td>
     </tr>
     <tr style="text-align: center;">
       <td headers="table69225r1c1">
-        1-3 p.m. 
+        1-2 p.m. 
       </td>
       <td headers="table69225r1c2">
-        Workshop 2 by Ana Maria Perea 
+        Lunch
       </td>
       <td headers="table69225r1c3">
-        PCa_tutorial
+        zoom chats online from 12:40-1 pm, cameras on
       </td>
       <td headers="table69225r1c4">
         TBA
       </td>
       <td headers="table69225r1c5">
-        talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
-	      <a href="https://github.com/pereaanamaria/PCa_tutorial"github link</a>
+       
       </td>
     </tr>
     <tr style="text-align: center;">
