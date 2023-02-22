@@ -328,10 +328,10 @@ The online workshop will have two parts:
         PCa_tutorial
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
-        &nbsp;
+        talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-         talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
+         
 	      <a href="https://github.com/pereaanamaria/PCa_tutorial"github link</a> 
       </td>
     </tr>
@@ -370,7 +370,7 @@ Aplication OD
 Visuals
       </td>
       <td headers="table69225r1c5">
-        &nbsp;
+      <a href=" https://colab.research.google.com/drive/1Za7D-h5ztTq7eTLybQBHzD-SlOszlgp4?usp=sharing"Collab link</a> 
       </td>
     </tr>
   </tbody>
