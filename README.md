@@ -331,8 +331,7 @@ The online workshop will have two parts:
         talk:<a href="https://github.com/pereaanamaria/PCa_tutorial">Youtube</a> 
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-         
-	      <a href="https://github.com/pereaanamaria/PCa_tutorial"github link</a> 
+	      <a href="https://github.com/pereaanamaria/PCa_tutorial">github link</a> 
       </td>
     </tr>
     <tr style="text-align: center;">
