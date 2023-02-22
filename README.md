@@ -367,9 +367,7 @@ The online workshop will have two parts:
       <td headers="table69225r1c5">
       soon
       </td>
-    </tr>
-	  
-	  
+    </tr>  
     <tr style="text-align: center;">
       <td headers="table69225r1c1">
         4-6 p.m. 
@@ -382,10 +380,8 @@ The online workshop will have two parts:
       </td>
       <td headers="table69225r1c4">
         Setup/Installs/Downloads (ongoing)
-Time predictions/analysis:
-Location prediction
-Aplication OD 
-Visuals
+Time predictions/analysis:Location prediction
+Aplication OD :Visuals
       </td>
       <td headers="table69225r1c5">
       <a href=" https://colab.research.google.com/drive/1Za7D-h5ztTq7eTLybQBHzD-SlOszlgp4?usp=sharing"Collab link</a> 
