@@ -306,7 +306,7 @@ The online workshop will have two parts:
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
         <span style="background-color: #FFFF00"> special guest: Dr. Enrico Camporealle </span><br><em>NSO</em>
-      </td>
+      </td> 
       <td headers="table69225r1c3">
         Space Weather and ML Trends 
       </td>
