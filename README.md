@@ -294,7 +294,7 @@ The online workshop will have two parts:
         notebooks and slides for DNN inversion lecture at monash ML workshop
       </td>
       <td headers="table69225r1c4">
-        TBA
+        <a href="https://github.com/ivanzmilic/monash_workshop"> github link </a>  
       </td>
       <td headers="table69225r1c5">
         <a href="https://github.com/ivanzmilic/monash_workshop"> github link </a>  
