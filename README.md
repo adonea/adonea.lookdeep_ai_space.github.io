@@ -342,7 +342,7 @@ The online workshop will have two parts:
         Lunch
       </td>
       <td headers="table69225r1c3">
-        zoom chats online from 12:40-1 pm, cameras on
+        zoom chats online from 1:40-2 pm, cameras on, smile you are on camera
       </td>
       <td headers="table69225r1c4">
         TBA
@@ -351,15 +351,34 @@ The online workshop will have two parts:
        &nbsp;
       </td>
     </tr>
+	  <tr style="text-align: center;">
+      <td headers="table69225r1c1">
+        2-3 p.m. 
+      </td>
+      <td headers="table69225r1c2">
+        Workshop 3 by  Mathilde Ritman
+      </td>
+      <td headers="table69225r1c3">
+        Workshop 3
+      </td>
+      <td headers="table69225r1c4">
+        ATB
+      </td>
+      <td headers="table69225r1c5">
+      <a href=" https://colab.research.google.com/drive/1Za7D-h5ztTq7eTLybQBHzD-SlOszlgp4?usp=sharing"Collab link</a> 
+      </td>
+    </tr>
+	  
+	  
     <tr style="text-align: center;">
       <td headers="table69225r1c1">
         4-6 p.m. 
       </td>
       <td headers="table69225r1c2">
-        Workshop 3 by Vanesssa Mercea
+        Workshop 4 by Vanesssa Mercea
       </td>
       <td headers="table69225r1c3">
-        Workshop 3
+        Workshop 4
       </td>
       <td headers="table69225r1c4">
         Setup/Installs/Downloads (ongoing)
