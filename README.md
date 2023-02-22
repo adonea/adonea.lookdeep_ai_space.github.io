@@ -351,7 +351,7 @@ The online workshop will have two parts:
        &nbsp;
       </td>
     </tr>
-	  <tr style="text-align: center;">
+  <tr style="text-align: center;">
       <td headers="table69225r1c1">
         2-3 p.m. 
       </td>
@@ -365,7 +365,7 @@ The online workshop will have two parts:
         ATB
       </td>
       <td headers="table69225r1c5">
-      <a href=" https://colab.research.google.com/drive/1Za7D-h5ztTq7eTLybQBHzD-SlOszlgp4?usp=sharing"Collab link</a> 
+      soon
       </td>
     </tr>
 	  
