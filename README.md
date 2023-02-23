@@ -359,7 +359,7 @@ The online workshop will have two parts:
         Workshop 3 by  Mathilde Ritman
       </td>
       <td headers="table69225r1c3">
-        Workshop 3
+        -
       </td>
       <td headers="table69225r1c4">
         ATB
@@ -376,7 +376,7 @@ The online workshop will have two parts:
         Workshop 4 by Vanesssa Mercea
       </td>
       <td headers="table69225r1c3">
-        Workshop 4
+        -
       </td>
       <td headers="table69225r1c4">
         Setup/Installs/Downloads (ongoing)
