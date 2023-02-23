@@ -384,7 +384,7 @@ Time predictions/analysis:Location prediction
 Aplication OD :Visuals
       </td>
       <td headers="table69225r1c5">
-      <a href="https://colab.research.google.com/drive/1Za7D-h5ztTq7eTLybQBHzD-SlOszlgp4?usp=sharing"Collab link</a> 
+	     <a href=" https://github.com/merceavanessa/sunquakes"github link</a> 
       </td>
     </tr>
   </tbody>
