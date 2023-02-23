@@ -359,10 +359,10 @@ The online workshop will have two parts:
         Workshop 3 by  Mathilde Ritman
       </td>
       <td headers="table69225r1c3">
-        -
+        Training and interrogating convolutional neural networks for a classification problem
       </td>
       <td headers="table69225r1c4">
-        ATB
+        Youtube
       </td>
       <td headers="table69225r1c5">
       <a href="https://github.com/meritman/monash-workshop.git">github resources</a>
