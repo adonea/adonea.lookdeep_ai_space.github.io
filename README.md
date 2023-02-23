@@ -376,12 +376,11 @@ The online workshop will have two parts:
         Workshop 4 by Vanesssa Mercea
       </td>
       <td headers="table69225r1c3">
-        -
+        Time predictions/analysis:Location prediction
+Aplication OD :Visuals
       </td>
       <td headers="table69225r1c4">
-        Setup/Installs/Downloads (ongoing)
-Time predictions/analysis:Location prediction
-Aplication OD :Visuals
+        Youtube
       </td>
       <td headers="table69225r1c5">
 	     <a href=" https://github.com/merceavanessa/sunquakes"github link</a> 
