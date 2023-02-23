@@ -383,7 +383,7 @@ Aplication OD :Visuals
         Youtube
       </td>
       <td headers="table69225r1c5">
-	     <a href="https://github.com/merceavanessa/sunquakes"github link</a> 
+	     <a href="https://github.com/merceavanessa/sunquakes">github link</a> 
       </td>
     </tr>
   </tbody>
