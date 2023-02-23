@@ -365,7 +365,7 @@ The online workshop will have two parts:
         ATB
       </td>
       <td headers="table69225r1c5">
-      soon
+      <a href="https://github.com/meritman/monash-workshop.git">github resources</a>
       </td>
     </tr>  
     <tr style="text-align: center;">
