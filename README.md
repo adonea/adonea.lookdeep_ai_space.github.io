@@ -397,7 +397,7 @@ Aplication OD :Visuals
 
 
 
-<details><summary>Session 3: 26th June 2023 TBC (invitations open)</summary>
+<details><summary>Part 3: May 2024 </summary>
 <p>
 
 </.>
