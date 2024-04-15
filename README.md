@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	1st Workshop on Deep Learning Algorithms for Space and Solar Physics Research and Data Imaging<p>
+	1st and 2nd Workshop on Deep Learning Algorithms for Space and Solar Physics Research and Data Imaging<p>
 	Part II on 23rd Feb!
 </head>
 <body>
